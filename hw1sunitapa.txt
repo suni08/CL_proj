@@ -1,0 +1,48 @@
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\&quot; version=\&quot;8.2.1\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;google\&quot;&gt;&lt;diagram name=\&quot;Page-1\&quot; id=\&quot;42789a77-a242-8287-6e28-9cd8cfd52e62\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
+
+
+%% HW1 solution
+
+
+q0([i|L1],[1|L2]) :- q1(L1,L2).
+q0([v|L1],[5|L2]) :- q1(L1,L2).
+
+q0([x|L1],[1|L2]) :- q7(L1,L2).
+q0([x|L1],[2|L2]) :- q8(L1,L2).
+
+q0([i|L1],L2):- q2(L1,L2).
+q0([v|L1],L2):- q4(L1,L2).
+
+
+q2([i|L1],[2|L2]) :- q1(L1,L2).
+q2([v|L1],[4|L2]) :- q1(L1,L2).
+q2([x|L1],[9|L2]) :- q1(L1,L2).
+
+q2([i|L1],L2):- q3(L1,L2).
+q3([i|L1],[3|L2]) :- q1(L1,L2).
+
+q4([i|L1],[6|L2]) :- q1(L1,L2).
+
+q4([i|L1],L2):- q5(L1,L2).
+q5([i|L1],[7|L2]) :- q1(L1,L2).
+
+q5([i|L1],L2):- q6(L1,L2).
+q6([i|L1],[8|L2]) :- q1(L1,L2).
+
+q7([i|L1],[1|L2]) :- q1(L1,L2).
+q7([v|L1],[5|L2]) :- q1(L1,L2).
+q7(L1,[0|L2]) :- q1(L1,L2).
+
+
+q7([i|L1],L2) :- q2(L1,L2).
+q7([v|L1],L2) :- q4(L1,L2).
+
+q8([x|L1],[0|L2]) :- q1(L1,L2).
+
+q1([],[]).
+
+
+
+
+
